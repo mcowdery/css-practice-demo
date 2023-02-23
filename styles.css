@@ -33,7 +33,7 @@ input[type='text']:focus {
 .footer{font-size:100px;}
 
 /* Give the 'img' tag in the header an ID and set its width to 190px */
-#headerImage{width: 190px;}
+#header-image{width: 190px;}
 
 /* Target all heading tags on the page and set their font family to 'Bree Serif', serif */
 h1, h2, h3 {font-family:'Bree Serif', serif}
